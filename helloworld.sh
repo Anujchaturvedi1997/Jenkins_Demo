@@ -1,5 +1,5 @@
 var1=50
-var2=30
+var2=90
 
 sum=$(($var1 + $var2))
 
