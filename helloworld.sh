@@ -1,4 +1,4 @@
-var1=10
+var1=50
 var2=30
 
 sum=$(($var1 + $var2))
